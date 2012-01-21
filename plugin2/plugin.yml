@@ -1,0 +1,39 @@
+name: MinecraftForFun
+main: me.dina002.plugin2.plugin2
+version: 1.4
+permissions:
+    plugin2.Gimeg:
+        description: Gir deg lov aa spawne items
+        default: op
+commands:
+    selvmord:
+        description: dies
+        usage: /selvmord
+    lyn:
+        description: lightning
+        usage: /lyn
+    damage:
+        description: Bla bla bla...
+        usage: /damage <Antall>
+    GiMeg:
+        description: Bla bla bla...
+        usage: /Gimeg <ItemID> <antall>
+    afk:
+        description: Bla bla bla...
+        usage: /afk
+    gimeginfo:
+        description: Bla bla bla...
+        usage: /gimeginfo <Side>
+    himmel:
+        description: Bla bla bla...
+        usage: /himmel
+    setspawn:
+        description: Setter spawnet
+        usage: /setspawn
+    spawn:
+        description: Bla bla bla...
+
+        usage: /spawn
+    ping:
+        description: Bla bla bla...
+        usage: /ping
